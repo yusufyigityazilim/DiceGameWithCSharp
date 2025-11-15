@@ -1,2 +1,44 @@
 # DiceGameWithCSharp
-🎲 Dice Game – C# Console Application  This is a simple C# Console Dice Game where the player competes against an AI opponent. Both roll a dice, and the higher number wins the round. The game consists of 10 rounds, and the player with the highest score at the end is the winner.  📌 Features  🎮 Player vs. AI dice rolling system  🔢 Random number generation using Random  🏆 10-round game with score tracking  ⏳ Small delay for realistic dice roll feeling  🖥️ Fully console-based and beginner-friendly  ▶️ How to Play  Run the application  Press any key to roll the dice  Watch the AI roll its dice  The winner of each round receives 1 point  After 10 rounds, the game displays the final result  🛠️ Technologies Used  C#  .NET Console Application  🧠 Future Improvements  Replay option  Custom number of rounds  Multiplayer mode  GUI version (Windows Forms / WPF)
+🎲 Dice Game – C# Console App
+
+A simple 10-round dice game built with C#. The player rolls against an AI, and whoever has the higher number wins the round. Points are tracked and the final winner is shown at the end.
+
+📌 Features
+
+Player vs AI dice rolling
+
+10 rounds with score tracking
+
+Random number generation
+
+Console-based UI
+
+▶️ How to Play
+
+Run the program
+
+Press any key to roll the dice
+
+After each round, scores are displayed
+
+Highest score after 10 rounds wins
+
+📂 Project Setup
+git clone https://github.com/your-username/dicegame.git
+
+
+Open in Visual Studio and run the project.
+
+🛠️ Technologies
+
+C#
+
+.NET Console Application
+
+🧠 Future Ideas
+
+Replay option
+
+Custom round count
+
+GUI version
